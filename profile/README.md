@@ -11,11 +11,11 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
 ### Team Leads
 
 - **Unai Medina**
-  - Role: **CEO**
+  - Role: **Leader**
   - GitHub: **[@UnaiMedina](https://github.com/unaimedina)**
 
 - **Jordi X. Macho**
-  - Role: **CEO**
+  - Role: **Leader**
   - GitHub: **[@HarpyLMAO](https://github.com/harpylmao)**
 
 ### Developers
@@ -26,10 +26,15 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
 
 Explore our exciting projects that showcase our skills and commitment to excellence.
 
-1. **OverWorld**
+1. **Overworld Community**
    - Description: **A new-era [FiveM] roleplay server.**
-   - Twitter: **[@OverWorldCM](https://twitter.com/overworldcm)**
+   - Twitter: **[@OverworldCM](https://twitter.com/overworldcm)**
    - Website: **[overworld.es](https://overworld.es)**
+2. **Volt Guard**
+   - Description: **Password manager with web support**
+   - Upcoming changes:
+       - 📱 Mobile app
+       - 🌐 Multilanguage support
 
 ## Website
 
