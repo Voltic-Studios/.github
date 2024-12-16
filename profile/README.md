@@ -11,12 +11,13 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
 ### Team Leads
 
 - **Unai Medina**
-  - Role: **Leader**
-  - GitHub: **[@UnaiMedina](https://github.com/unaimedina)**
+  - 🤵‍♂️ Role: **Leader**
+  - 👨‍💻 GitHub: **[@UnaiMedina](https://github.com/unaimedina)**
+  - 📧 Mail: [unai.medina@voltic.dev](mailto:unai.medina@voltic.dev)
 
 - **Jordi X. Macho**
-  - Role: **Leader**
-  - GitHub: **[@HarpyLMAO](https://github.com/harpylmao)**
+  - 🤵‍♂️ Role: **Leader**
+  - 👨‍💻 GitHub: **[@HarpyLMAO](https://github.com/harpylmao)**
 
 ### Developers
 
